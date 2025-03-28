@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/b5/82/b2/b582b26d5cd210c1ae1aeb9fbe1b7fae.gif)
+![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)
 <h1 align="center">Hi 👋, I'm Mayana Mohammed Fazil Khan</h1>
 <h3 align="center">A passionate Python developer and AI enthusiast from India.</h3>
 
