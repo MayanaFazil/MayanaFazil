@@ -1,4 +1,4 @@
-![MasterHead](https://files.oaiusercontent.com/file-VxiWaCFU9fQR8FLufBGDY6?se=2025-03-28T06%3A16%3A45Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df8ec1e96-4d12-4dc2-837f-a6c3fe0720dc.webp&sig=AseH00ETiG7dJMixyy0626wq2KdzxKq%2B8ppUljYyeNg%3D)
+![MasterHead](https://i.pinimg.com/originals/b5/82/b2/b582b26d5cd210c1ae1aeb9fbe1b7fae.gif)
 <h1 align="center">Hi 👋, I'm Mayana Mohammed Fazil Khan</h1>
 <h3 align="center">A passionate Python developer and AI enthusiast from India.</h3>
 
