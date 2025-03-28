@@ -1,9 +1,10 @@
+![MasterHead](https://files.oaiusercontent.com/file-VxiWaCFU9fQR8FLufBGDY6?se=2025-03-28T06%3A16%3A45Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Df8ec1e96-4d12-4dc2-837f-a6c3fe0720dc.webp&sig=AseH00ETiG7dJMixyy0626wq2KdzxKq%2B8ppUljYyeNg%3D)
 <h1 align="center">Hi 👋, I'm Mayana Mohammed Fazil Khan</h1>
 <h3 align="center">A passionate Python developer and AI enthusiast from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanafazil&label=Profile%20views&color=0e75b6&style=flat" alt="mayanafazil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayanafazil&label=Profile%20views&color=0e75b6&style=flat" alt="mayanafazil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanafazil" alt="mayanafazil" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanafazil" alt="mayanafazil" /></a> </p>
 
 - 🌱 I’m currently learning **IBM Watsonx**
 
