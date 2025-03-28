@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanafazil" alt="mayanafazil" /></a> </p>
 
+- 🌱 I’m currently learning **IBM Watsonx**
+
+- 👯 I’m looking to collaborate on [Shadowswitch](https://github.com/MayanaFazil/ShadowSwitch)
+
+- 👨‍💻 All of my projects are available at [MayanaFazil](MayanaFazil)
+
+- 📝 I regularly write articles on [https://linktr.ee/fazil_2125](https://linktr.ee/fazil_2125)
+
+- 📫 How to reach me **mohammedfazilkhanmayana@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/17-em6ULLTQWd8OyGzdcJsb8ZWgIOSr3N/view](https://drive.google.com/file/d/17-em6ULLTQWd8OyGzdcJsb8ZWgIOSr3N/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayana-mohammed-fazil-khan-1b634b270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayana-mohammed-fazil-khan-1b634b270/" height="30" width="40" /></a>
@@ -21,5 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanafazil&show_icons=true&locale=en" alt="mayanafazil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanafazil&" alt="mayanafazil" /></p> 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanafazil&" alt="mayanafazil" /></p>
