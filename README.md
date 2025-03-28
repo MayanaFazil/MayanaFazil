@@ -81,6 +81,13 @@
 
 <h3 align="left"><b>🏆 My LeetCode Badges</b></h3>
 
+<p align="center">
+  <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
+    <img src="https://leetcode-stats.vercel.app/api?username=mayana_fazil_khan&theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
+
   <h4 align="left">🏆 Annual Badges</h3>
   <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days 2025" height="100" width="100" />
