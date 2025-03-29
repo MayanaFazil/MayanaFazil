@@ -112,10 +112,10 @@
 
   <h4 align="left">📚 Study Plan Badges</h3>
   <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" alt="Introduction to Pandas" height="100" width="100" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="Introduction to Pandas" height="100" width="100" />
   </a>
   <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50" height="100" width="100" />
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50" height="100" width="100" />
   </a>
 </p>
 
