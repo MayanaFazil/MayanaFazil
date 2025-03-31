@@ -97,6 +97,9 @@
   </a>
 
  <h4 align="left"> 📅 Daily Badges</h3>
+ <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" alt="Mar Badge 2025" height="100" width="100" />
+  </a>
   <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
     <img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" alt="Feb Badge 2025" height="100" width="100" />
   </a>
