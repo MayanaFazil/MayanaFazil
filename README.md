@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mayana Mohammed Fazil Khan</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Mayana Mohammed Fazil Khan</span></h1>
 <h3 align="center">A passionate Python Developer & AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayanafazil&theme=gruvbox" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mayanafazil&theme=gruvbox&title=Stars,Commits,Followers,Repositories,PullRequest" alt="Trophies" />
   </a>
 </p>
 
@@ -19,101 +19,91 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **IBM Watsonx | AI, AutoAI, Prompt Labs & Model Building**
-- 🌱 Actively learning **Data Fabric, XNDT, AI Workflows & Cloud Platforms**
-- 👯 Looking to collaborate on [**ShadowSwitch**](https://github.com/MayanaFazil/ShadowSwitch)
-- 🧑‍💻 All my projects: [GitHub Portfolio](https://github.com/MayanaFazil)
-- ✍️ Regular blogs: [Linktree](https://linktr.ee/fazil_2125)
-- 📫 Reach me at: **mohammedfazilkhanmayana@gmail.com**
-- 📄 My Resume: [Google Drive](https://drive.google.com/file/d/17-em6ULLTQWd8OyGzdcJsb8ZWgIOSr3N/view)
+- 🎓 2024 B.Tech CSE Graduate from Aditya College of Engineering  
+- 🧠 Currently diving deep into **IBM Watsonx, AI/ML, and Full-Stack Development**  
+- 💡 Exploring **AutoAI, Prompt Lab, and ML pipelines** in IBM Watsonx.ai  
+- 💻 Building projects like **[ShadowSwitch](https://github.com/MayanaFazil/ShadowSwitch)**  
+- 📚 Consistently practicing on **LeetCode** and other coding platforms  
+- ✍️ I write tech articles here: [linktr.ee/fazil_2125](https://linktr.ee/fazil_2125)  
+- 📄 [Check out my resume](https://drive.google.com/file/d/17-em6ULLTQWd8OyGzdcJsb8ZWgIOSr3N/view)  
+- 📬 Reach me: **mohammedfazilkhanmayana@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mayana-mohammed-fazil-khan-1b634b270/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/mayana_fazil_khan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/fazilkhan_2125" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.hackerearth.com/@mohammedfazilkhanmayana/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/mmfazil_khan2125/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
-</p>
-
----
-
-### 🏅 LeetCode Badges & Stats
-
-#### 📊 LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/mayana_fazil_khan/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=mayana_fazil_khan&theme=dark" alt="LeetCode Stats" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,bootstrap,anaconda,c,ai," />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pandas,scikit-learn,git,github,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayanafazil&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanafazil&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanafazil&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏅 LeetCode Highlights
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=mayana_fazil_khan&theme=dark" alt="LeetCode Stats" />
 </p>
 
 #### 🏆 Annual Badges
-<p>
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="100"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100"/>
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" />
 </p>
 
 #### 📅 Monthly Badges
-<p>
-  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" height="100"/>
-  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" height="100"/>
-  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" height="100"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="100"/>
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100"/>
+<p align="center">
+  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" height="100" />
+  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" height="100" />
+  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" height="100" />
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="100" />
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100" />
 </p>
 
 #### 📚 Study Plan Badges
-<p>
-  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" height="100"/>
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" height="100" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanafazil&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayanafazil&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanafazil&theme=dark" alt="GitHub Streak"/>
+  <b>Let's build something amazing together 🚀</b>
 </p>
