@@ -89,7 +89,7 @@
 
 #### 📅 Monthly Badges
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" height="100" />
+   <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" height="100" />
