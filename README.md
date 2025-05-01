@@ -80,6 +80,7 @@
   <img src="https://leetcode-stats.vercel.app/api?username=mayana_fazil_khan&theme=dark" alt="LeetCode Stats" />
 </p>
 
+
 #### 🏆 Annual Badges
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" />
