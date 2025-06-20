@@ -34,6 +34,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/bbfb1d29-37ec-4ddb-90d9-2a7b7817c7e8" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/mayana-mohammed-fazil-khan-1b634b270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
