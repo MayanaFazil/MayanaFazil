@@ -59,10 +59,11 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,bootstrap,anaconda,c,ai," />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,bootstrap" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=pandas,scikit-learn,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=anaconda,c,ai,gcp,git,github,linux" />
 </p>
+
 
 ---
 
@@ -94,12 +95,15 @@
 
 #### 📅 Monthly Badges
 <p align="center">
-   <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" height="100" />
+  <br>
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100" />
+  
 </p>
 
 #### 📚 Study Plan Badges
