@@ -21,7 +21,8 @@
 
 - 🎓 2024 B.Tech CSE Graduate from Aditya College of Engineering  
 - 🧠 Currently diving deep into **IBM Watsonx, AI/ML, and Full-Stack Development**  
-- 💡 Exploring **AutoAI, Prompt Lab, and ML pipelines** in IBM Watsonx.ai  
+- 💡 Exploring **AutoAI, Prompt Lab, and ML pipelines** in IBM Watsonx.ai
+- ☁️ Google Cloud Certified | 140+ Skill Badges on Google Cloud Skills Boost   
 - 💻 Building projects like **[ShadowSwitch](https://github.com/MayanaFazil/ShadowSwitch)**  
 - 📚 Consistently practicing on **LeetCode** and other coding platforms  
 - ✍️ I write tech articles here: [linktr.ee/fazil_2125](https://linktr.ee/fazil_2125)  
