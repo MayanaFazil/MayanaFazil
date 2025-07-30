@@ -9,11 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=mayanafazil&label=Profile%20views&color=0e75b6&style=flat" alt="mayanafazil" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mayanafazil&theme=gruvbox&title=Stars,Commits,Followers,Repositories,PullRequest" alt="Trophies" />
-  </a>
-</p>
 
 ---
 
