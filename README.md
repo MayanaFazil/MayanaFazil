@@ -83,22 +83,33 @@
 
 #### 🏆 Annual Badges
 <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2025.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" />
 </p>
 
-#### 📅 Monthly Badges
+##### 📅 2025 Monthly Badges
 <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202508.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" height="100" />
+  <br/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-03.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-02.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" height="100" />
   <br>
+</p>
+
+##### 📅 2024 Monthly Badges
+<p align="center">
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="100" />
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100" />
-  
 </p>
 
 #### 📚 Study Plan Badges
