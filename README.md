@@ -91,6 +91,15 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="100" />
 </p>
 
+##### 📅 2026 Monthly Badges
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" height="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" height="100" />
+  <br>
+</p>
+
 ##### 📅 2025 Monthly Badges
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/202512.gif" height="100" />
