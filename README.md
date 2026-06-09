@@ -74,12 +74,6 @@
 
 ---
 
-### 🏅 LeetCode Highlights
-
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=mayana_fazil_khan&theme=dark" alt="LeetCode Stats" />
-</p>
-
 
 #### 🏆 Annual Badges
 <p align="center">
