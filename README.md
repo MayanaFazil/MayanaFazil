@@ -87,6 +87,7 @@
 
 ##### 📅 2026 Monthly Badges
 <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/6.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" height="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" height="100" />
